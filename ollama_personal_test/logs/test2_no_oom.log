@@ -1,0 +1,12 @@
+
+Apr  9 10:13:10 server1 sshd[1050]: Failed password for invalid user admin from 203.0.113.12 port 49821 ssh2
+Apr  9 10:13:12 server1 sshd[1050]: Failed password for invalid user admin from 203.0.113.12 port 49821 ssh2
+Apr  9 10:15:03 server1 nginx[2201]: 500 Internal Server Error: /api/login
+Apr  9 10:15:04 server1 nginx[2201]: 500 Internal Server Error: /api/login
+Apr  9 10:15:10 server1 postgres[2301]: ERROR: connection to client lost
+Apr  9 10:15:12 server1 postgres[2301]: WARNING: terminating connection due to unexpected EOF
+Apr  9 10:17:42 server1 sshd[2400]: Failed password for user root from 198.51.100.23 port 60022 ssh2
+Apr  9 10:18:33 server1 kernel: [12390.123456] EXT4-fs error (device sda1): ext4_find_entry:1463: inode #131072: comm ls: reading directory lblock 0
+Apr  9 10:19:10 server1 docker[2500]: Error response from daemon: failed to start container
+Apr  9 10:19:12 server1 docker[2500]: Container exited with status 137
+Apr  9 10:20:00 server1 CRON[2600]: (root) CMD (run-parts /etc/cron.hourly)
