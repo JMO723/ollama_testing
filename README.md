@@ -1,6 +1,6 @@
 # Project Goals
 
-The goal of this project is to understand how to communicate/interact with an AI model on my local machine, as well as to understand the concept of parameters and how they affect responses from AI models. To accomplish this goal, a Linux log analyzer program was created. The program would ask an AI model (qwen/qwen:7b) to analyze the text and provide an actionable response to the user. I started this project in python, but had to use Google Colab in order to run the qwen:7b model. 
+The goal of this project is to understand how to communicate/interact with an AI model on my local machine, as well as to understand the concept of parameters and how they affect responses from AI models. To accomplish this goal, a Linux log analyzer program was created. The program would ask an AI model (qwen/qwen2.5:7b) to analyze the text and provide an actionable response to the user. I started this project in python, but had to use Google Colab in order to run the qwen:7b model. 
 
 # Project Structure
 
@@ -15,3 +15,6 @@ ollama_testing/
 
 ollama_test_qwen7b_colab_test/
     ├── colab_ollama_log_analyzer.ipynb    #Accomplishes the same task as the files in ollama_testing by using Google Colab. My local machine does not suffice to run a 7b parameter model, Colab allows us to see the differences in a response from qwen vs qwen:7b. 
+
+```
+#Model Responses
