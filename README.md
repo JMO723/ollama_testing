@@ -17,4 +17,5 @@ ollama_test_qwen7b_colab_test/
     ├── colab_ollama_log_analyzer.ipynb    #Accomplishes the same task as the files in ollama_testing by using Google Colab. My local machine does not suffice to run a 7b parameter model, Colab allows us to see the differences in a response from qwen vs qwen:7b. 
 
 ```
-#Model Responses
+# Model Responses
+![ollama_personal_test/ollama_qwen_run_response_image/ollama_run.png]
