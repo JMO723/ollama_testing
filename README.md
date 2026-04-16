@@ -18,4 +18,6 @@ ollama_test_qwen7b_colab_test/
 
 ```
 # Model Responses
+
+**Python implementation**
 ![App Response](ollama_personal_test/ollama_qwen_run_response_image/ollama_run.png)
