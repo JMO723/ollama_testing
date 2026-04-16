@@ -21,3 +21,7 @@ ollama_test_qwen7b_colab_test/
 
 **Python implementation**
 ![App Response](ollama_personal_test/ollama_qwen_run_response_image/ollama_run.png)
+
+**Google Colab implementation**
+![App Response](ollama_test_qwen7b_colab_test/ollama_qwen7b_run_response_image/ollama_run_7b.png)
+
